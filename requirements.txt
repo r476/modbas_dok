@@ -1,0 +1,10 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+idna==2.9
+modbus==3.2
+numpy==1.18.5
+PySocks==1.7.1
+pyTelegramBotAPI==3.7.1
+requests==2.23.0
+six==1.15.0
+urllib3==1.25.9
